@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Capacitor 平台工程（由云端构建临时生成，不入库）
+android/
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+*.iml
+.idea/
+.vscode/

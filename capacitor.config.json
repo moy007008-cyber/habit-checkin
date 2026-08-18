@@ -1,0 +1,12 @@
+{
+  "appId": "com.habit.habitcheckin",
+  "appName": "习惯打卡",
+  "webDir": "web",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
