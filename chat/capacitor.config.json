@@ -1,0 +1,12 @@
+{
+  "appId": "com.codex.remotechat",
+  "appName": "Codex Chat",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "codex-chat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Codex 随身 - 手机端直连 OpenAI Responses API 的聊天应用",
+  "scripts": {
+    "sync": "cap sync android",
+    "build:android": "cd android && ./gradlew assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}
